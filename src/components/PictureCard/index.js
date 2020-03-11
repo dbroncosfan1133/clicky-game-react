@@ -1,18 +1,18 @@
 import React from "react";
 import "./style.css";
 
-function PictureCard(props) {
-    return (
-        <div className="tile is-vertical is-3">
-            <div className="tile">
-                <div className="tile is-parent is-vertical">
-                    <div className="tile is-child box">
-                        <img alt={props.name} src={props.image} />
-                    </div>
-                </div>
-            </div>
-        </div>
-    );
-}
+const PictureCard = props => (
+	<div 
+	className="tile is-child box image_tiles" 
+	key={props.id}
+	onClick={() => props.handleClick(props.id, props.clicked)}
+	>
+		<img 
+		id={props.name}
+		src={props.image}
+		alt={props.name}
+		/>
+	</div>
+);
 
 export default PictureCard;

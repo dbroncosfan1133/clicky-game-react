@@ -1,51 +1,52 @@
 [
     {
       "id": 1,
-      "image": "https://pmctvline2.files.wordpress.com/2016/09/archer-ending-season-10.jpg"
+      "name": "Ganondorf OoT",
+      "image": "../images/Ganondorf_oot.png"
     },
     {
       "id": 2,
-      "image": "https://pmctvline2.files.wordpress.com/2016/09/archer-ending-season-10.jpg"
+      "image": "../images/Ganondorf_Wind_Waker.png"
     },
     {
       "id": 3,
-      "image": "https://pmctvline2.files.wordpress.com/2016/09/archer-ending-season-10.jpg"
+      "image": "../images/Link_s_Awakening.jpg"
     },
     {
       "id": 4,
-      "image": "https://pmctvline2.files.wordpress.com/2016/09/archer-ending-season-10.jpg"
+      "image": "../images/link-botw.jpg"
     },
     {
       "id": 5,
-      "image": "https://pmctvline2.files.wordpress.com/2016/09/archer-ending-season-10.jpg"
+      "image": "../images/link-original.png"
     },
     {
       "id": 6,
-      "image": "https://pmctvline2.files.wordpress.com/2016/09/archer-ending-season-10.jpg"
+      "image": "../images/link-to-the-past.png"
     },
     {
       "id": 7,
-      "image": "https://pmctvline2.files.wordpress.com/2016/09/archer-ending-season-10.jpg"
+      "image": "../images/LinkOoT.png"
     },
     {
       "id": 8,
-      "image": "https://pmctvline2.files.wordpress.com/2016/09/archer-ending-season-10.jpg"
+      "image": "../images/marin.jpeg"
     },
     {
       "id": 9,
-      "image": "https://pmctvline2.files.wordpress.com/2016/09/archer-ending-season-10.jpg"
+      "image": "../images/Sheik_ssb.png"
     },
     {
       "id": 10,
-      "image": "https://pmctvline2.files.wordpress.com/2016/09/archer-ending-season-10.jpg"
+      "image": "../images/yuga.png"
     },
     {
       "id": 11,
-      "image": "https://pmctvline2.files.wordpress.com/2016/09/archer-ending-season-10.jpg"
+      "image": "../images/zelda-lbw.jpg"
     },
     {
       "id": 12,
-      "image": "https://pmctvline2.files.wordpress.com/2016/09/archer-ending-season-10.jpg"
+      "image": "../images/zelda-ssb.jpg"
     }
   ]
   

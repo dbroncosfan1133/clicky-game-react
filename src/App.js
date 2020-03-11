@@ -1,9 +1,7 @@
 import React, { Component } from "react";
-import PictureCard from "./components/PictureCard";
-import Wrapper from "./components/Wrapper";
-import Title from "./components/Title";
 import Navbar from "./components/Navbar";
 import pictures from "./pictures.json";
+import GameContainer from "./components/GameContainer";
 
 class App extends Component {
   state = {
@@ -14,15 +12,7 @@ class App extends Component {
     return (
       <div>
         <Navbar />
-        <Title />
-        <Wrapper>
-          {this.state.pictures.map(picture => (
-            <PictureCard
-              id={picture.id}
-              image={picture.image}
-            />
-          ))}
-        </Wrapper>
+        <GameContainer />
       </div>
     );
   }
